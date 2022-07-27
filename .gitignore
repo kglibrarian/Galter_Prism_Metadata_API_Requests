@@ -1,6 +1,6 @@
 # Ignore these files and folders
 config.py
-/output
+/outputs
 /data
 
 
